@@ -1,5 +1,5 @@
 # docker-aws
-alpine based aws-cli container
+alpine based aws-cli container [x86 + arm]
 
 ## Usage
 
