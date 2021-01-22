@@ -1,6 +1,8 @@
 # docker-aws
 alpine based aws-cli container [x86 + arm]
 
+this is a multiarch build.
+
 ## Usage
 
 ```
